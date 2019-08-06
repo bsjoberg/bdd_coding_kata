@@ -7,5 +7,4 @@ import cucumber.api.java.en.When;
 import static org.junit.Assert.*;
 
 public class Stepdefs {
-
 }
